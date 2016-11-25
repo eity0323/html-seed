@@ -1,4 +1,7 @@
-node_modules
 bower_components
-.sass-cache
 dist
+build
+node_modules
+.tmp
+.sass-cache
+.idea
